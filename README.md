@@ -5,3 +5,5 @@ TIL (Today I Learned)
 2. 알고리즘 공부 다시시작
 
 3. Deep Learning 공부
+
+4. Sql 
